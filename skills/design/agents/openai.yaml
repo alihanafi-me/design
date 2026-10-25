@@ -1,0 +1,5 @@
+interface:
+  display_name: "Design"
+  short_description: "Design and review thoughtful, dependable interfaces"
+policy:
+  allow_implicit_invocation: true
